@@ -8,6 +8,9 @@ env/
 venv/
 ENV/
 
+#Assets
+assets/
+
 #Etc
 struct.md
 note.md
