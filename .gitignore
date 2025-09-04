@@ -7,6 +7,7 @@
 env/
 venv/
 ENV/
+.DS_Store
 
 #Assets
 assets/
